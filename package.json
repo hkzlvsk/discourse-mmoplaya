@@ -1,10 +1,10 @@
 {
-  "name": "discourse-material-theme",
-  "author": "Daemon Pty Ltd",
+  "name": "discourse-mmoplaya",
+  "author": "Hubert Kozlowski",
   "bugs": {
-    "url": "https://github.com/sesemaya/discourse-material-theme/issues"
+    "url": "https://github.com/hkzlvsk/discourse-mmoplaya/issues"
   },
-  "description": "Material Design for Discourse",
+  "description": "Theme for mmorpg.org.pl",
   "devDependencies": {
     "autoprefixer": "^9.0.2",
     "grunt": "^1.0.3",
@@ -19,7 +19,7 @@
   "engines": {
     "node": ">=4"
   },
-  "homepage": "https://labs.daemon.com.au/t/daemonite-material-discourse-theme/353",
+  "homepage": "https://mmorpg.org.pl/",
   "keywords": [
     "discourse",
     "discourse-theme",
@@ -29,7 +29,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sesemaya/discourse-material-theme.git"
+    "url": "https://github.com/hkzlvsk/discourse-mmoplaya.git"
   },
-  "version": "1.1.1"
+  "version": "1.0.0"
 }
